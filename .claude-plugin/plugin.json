@@ -1,0 +1,11 @@
+{
+  "name": "cangjie-lsp",
+  "description": "Cangjie language LSP support for Claude Code — code completion, hover, go-to-definition, references, rename, semantic tokens and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sanchuanhehe"
+  },
+  "repository": "https://github.com/sanchuanhehe/cangjie-lsp",
+  "homepage": "https://cangjie-lang.cn",
+  "license": "Apache-2.0"
+}

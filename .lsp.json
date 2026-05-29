@@ -1,0 +1,10 @@
+{
+  "cangjie": {
+    "command": "LSPServer",
+    "args": [],
+    "extensionToLanguage": {
+      ".cj": "cangjie",
+      ".cangjie": "cangjie"
+    }
+  }
+}
