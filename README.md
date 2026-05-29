@@ -8,23 +8,23 @@
 
 ## 安装
 
-### 本地安装
+### 第一步：添加市场
 
-```bash
-claude --plugin-dir ./cangjie-lsp
 ```
-
-### 从 GitHub 安装
-
-```bash
-/plugin install sanchuanhehe/cangjie-lsp
-```
-
-### 团队内部市场（marketplace）
-
-```bash
 /plugin marketplace add sanchuanhehe/cangjie-lsp
-/plugin install @cangjie-lsp
+```
+
+### 第二步：安装插件
+
+```
+/plugin install cangjie-lsp
+```
+
+### 本地开发
+
+```bash
+git clone https://github.com/sanchuanhehe/cangjie-lsp.git
+claude --plugin-dir ./cangjie-lsp
 ```
 
 ## 功能
