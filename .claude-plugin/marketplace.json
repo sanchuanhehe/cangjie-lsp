@@ -1,0 +1,21 @@
+{
+  "name": "cangjie-lsp",
+  "owner": {
+    "name": "sanchuanhehe"
+  },
+  "description": "Cangjie language LSP plugin marketplace",
+  "plugins": [
+    {
+      "name": "cangjie-lsp",
+      "source": "./",
+      "description": "Cangjie language LSP support for Claude Code — code completion, hover, go-to-definition, references, rename, semantic tokens and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "sanchuanhehe"
+      },
+      "homepage": "https://cangjie-lang.cn",
+      "license": "Apache-2.0",
+      "tags": ["lsp", "cangjie", "language-server"]
+    }
+  ]
+}
